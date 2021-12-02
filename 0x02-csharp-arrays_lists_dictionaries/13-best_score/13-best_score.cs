@@ -13,6 +13,6 @@ class Dictionary
 			if (item.Value == bigScore[bigScore.Count - 1])
 				return (item.Key);
 		}
-		return null;
+		return "None";
 	}
 }
