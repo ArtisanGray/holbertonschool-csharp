@@ -15,6 +15,11 @@ class LList
 				myLList.AddBefore(myLList.Find(item), n);
 				break;
 			}
+			else if (n > item && item == myLList.Last.Value)
+			{
+				myLList.AddAfter(myLList.Find(item), n);
+				break;
+			}
 			i++;
 		}
 		return (newNode);
