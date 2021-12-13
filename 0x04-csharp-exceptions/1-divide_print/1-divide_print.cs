@@ -12,9 +12,9 @@ class Int
 		{
 			x = a / b;
 		}
-		catch
+		catch (DivideByZeroException)
 		{
-			Console.WriteLine("Cannot devide by zero");
+			Console.WriteLine("Cannot divide by zero");
 			x = 0;
 		}
 		finally
