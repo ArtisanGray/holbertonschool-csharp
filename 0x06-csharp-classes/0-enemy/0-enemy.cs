@@ -4,7 +4,8 @@ using System.Linq;
 
 namespace Enemies
 {
-	class Zombie
+	/// <summary> An empty Zombie class </summary>
+	public class Zombie
 	{
 	}
 }
