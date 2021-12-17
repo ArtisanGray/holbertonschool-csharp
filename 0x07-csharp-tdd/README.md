@@ -1,0 +1,1 @@
+A collection of .NET project folders that utilize c# concepts, particularly test driven development.
