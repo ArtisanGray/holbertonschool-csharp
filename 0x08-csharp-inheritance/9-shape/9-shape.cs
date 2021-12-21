@@ -72,7 +72,7 @@ class Square : Rectangle
         set
         {
             if (value < 0)
-                throw new ArgumentException("size must be greater than or equal to 0");
+                throw new ArgumentException("Size must be greater than or equal to 0");
             size = value;
             Height = value;
             Width = value;
