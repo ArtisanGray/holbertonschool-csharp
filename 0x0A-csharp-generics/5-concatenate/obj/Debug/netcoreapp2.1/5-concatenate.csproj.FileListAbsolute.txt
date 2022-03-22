@@ -1,0 +1,14 @@
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\5-concatenate\bin\Debug\netcoreapp2.1\5-concatenate.xml
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\5-concatenate\bin\Debug\netcoreapp2.1\5-concatenate.deps.json
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\5-concatenate\bin\Debug\netcoreapp2.1\5-concatenate.runtimeconfig.json
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\5-concatenate\bin\Debug\netcoreapp2.1\5-concatenate.runtimeconfig.dev.json
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\5-concatenate\bin\Debug\netcoreapp2.1\5-concatenate.dll
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\5-concatenate\bin\Debug\netcoreapp2.1\5-concatenate.pdb
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\5-concatenate\obj\Debug\netcoreapp2.1\5-concatenate.csproj.AssemblyReference.cache
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\5-concatenate\obj\Debug\netcoreapp2.1\5-concatenate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\5-concatenate\obj\Debug\netcoreapp2.1\5-concatenate.AssemblyInfoInputs.cache
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\5-concatenate\obj\Debug\netcoreapp2.1\5-concatenate.AssemblyInfo.cs
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\5-concatenate\obj\Debug\netcoreapp2.1\5-concatenate.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\5-concatenate\obj\Debug\netcoreapp2.1\5-concatenate.dll
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\5-concatenate\obj\Debug\netcoreapp2.1\5-concatenate.pdb
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\5-concatenate\obj\Debug\netcoreapp2.1\5-concatenate.genruntimeconfig.cache

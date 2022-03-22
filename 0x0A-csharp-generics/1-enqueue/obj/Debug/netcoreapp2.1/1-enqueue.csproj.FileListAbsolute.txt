@@ -1,0 +1,13 @@
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\netcoreapp2.1\1-enqueue.deps.json
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\netcoreapp2.1\1-enqueue.runtimeconfig.json
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\netcoreapp2.1\1-enqueue.runtimeconfig.dev.json
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\netcoreapp2.1\1-enqueue.dll
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\netcoreapp2.1\1-enqueue.pdb
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp2.1\1-enqueue.csproj.AssemblyReference.cache
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp2.1\1-enqueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp2.1\1-enqueue.AssemblyInfoInputs.cache
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp2.1\1-enqueue.AssemblyInfo.cs
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp2.1\1-enqueue.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp2.1\1-enqueue.dll
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp2.1\1-enqueue.pdb
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp2.1\1-enqueue.genruntimeconfig.cache
