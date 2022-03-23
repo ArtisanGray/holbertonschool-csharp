@@ -7,8 +7,9 @@ abstract class Base
         get;
         set;
     }
+
     public override string ToString()
     {
-        return $"{name} is a {typeof(name)}";
+        return $"{name} is a {this.GetType()}";
     }
 }
