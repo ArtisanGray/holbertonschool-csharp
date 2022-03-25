@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>4-check_yourself</name>
+    </assembly>
+    <members>
+        <member name="M:Player.#ctor(System.String,System.Single)">
+            <summary>
+            player constructor.
+            </summary>
+            <param name="name">player's name</param>
+            <param name="maxHp">player's max hp allowed.</param>
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary>
+            prints current health values.
+            </summary>
+        </member>
+        <member name="T:Player.CalculateHealth">
+            <summary>
+            
+            </summary>
+            <param name="x">health amount passed as param.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Player.TakeDamage(System.Single)">
+            <summary>
+            deduct from current health pool.
+            </summary>
+            <param name="damage">amount of health to deduct.</param>
+        </member>
+        <member name="M:Player.HealDamage(System.Single)">
+            <summary>
+            heals the player, prints status.
+            </summary>
+            <param name="heal">amount to heal passed as parameter.</param>
+        </member>
+        <member name="M:Player.ValidateHP(System.Single)">
+            <summary>
+            modifies the hp value of the player.
+            </summary>
+            <param name="newHp">new hp value to be compared with.</param>
+        </member>
+        <member name="M:Player.ApplyModifier(System.Single,Modifier)">
+            <summary>
+            applies given modifier.
+            </summary>
+            <param name="baseValue"> base float value to modify.</param>
+            <param name="modifier">modifier to apply</param>
+            <returns></returns>
+        </member>
+        <member name="M:Player.CheckStatus(System.Object,CurrentHPArgs)">
+            <summary>
+            checks the status of the player
+            </summary>
+            <param name="sender">sender</param>
+            <param name="e">event</param>
+        </member>
+        <member name="T:Modifier">
+            <summary>
+            modifier and stuff.
+            </summary>
+        </member>
+        <member name="F:Modifier.Weak">
+            <summary>
+            weak modifier
+            </summary>
+        </member>
+        <member name="F:Modifier.Base">
+            <summary>
+            base modifier. no changes.
+            </summary>
+        </member>
+        <member name="F:Modifier.Strong">
+            <summary>
+            strong modifier.
+            </summary>
+        </member>
+        <member name="T:CalculateModifier">
+            <summary>
+            calculates an applied modifier to the given float.
+            </summary>
+            <param name="baseValue"> base value to pass</param>
+            <param name="modifier"> modifier to pass to base value</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,14 @@
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\2-validation\bin\Debug\netcoreapp2.1\2-validation.xml
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\2-validation\bin\Debug\netcoreapp2.1\2-validation.deps.json
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\2-validation\bin\Debug\netcoreapp2.1\2-validation.runtimeconfig.json
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\2-validation\bin\Debug\netcoreapp2.1\2-validation.runtimeconfig.dev.json
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\2-validation\bin\Debug\netcoreapp2.1\2-validation.dll
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\2-validation\bin\Debug\netcoreapp2.1\2-validation.pdb
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\2-validation\obj\Debug\netcoreapp2.1\2-validation.csproj.AssemblyReference.cache
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\2-validation\obj\Debug\netcoreapp2.1\2-validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\2-validation\obj\Debug\netcoreapp2.1\2-validation.AssemblyInfoInputs.cache
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\2-validation\obj\Debug\netcoreapp2.1\2-validation.AssemblyInfo.cs
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\2-validation\obj\Debug\netcoreapp2.1\2-validation.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\2-validation\obj\Debug\netcoreapp2.1\2-validation.dll
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\2-validation\obj\Debug\netcoreapp2.1\2-validation.pdb
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\2-validation\obj\Debug\netcoreapp2.1\2-validation.genruntimeconfig.cache

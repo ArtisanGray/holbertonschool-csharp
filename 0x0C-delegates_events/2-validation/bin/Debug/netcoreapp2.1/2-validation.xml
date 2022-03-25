@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-validation</name>
+    </assembly>
+    <members>
+        <member name="M:Player.#ctor(System.String,System.Single)">
+            <summary>
+            player constructor.
+            </summary>
+            <param name="name">player's name</param>
+            <param name="maxHp">player's max hp allowed.</param>
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary>
+            prints current health values.
+            </summary>
+        </member>
+        <member name="T:Player.CalculateHealth">
+            <summary>
+            
+            </summary>
+            <param name="x">health amount passed as param.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Player.TakeDamage(System.Single)">
+            <summary>
+            deduct from current health pool.
+            </summary>
+            <param name="damage">amount of health to deduct.</param>
+        </member>
+        <member name="M:Player.HealDamage(System.Single)">
+            <summary>
+            heals the player, prints status.
+            </summary>
+            <param name="heal">amount to heal passed as parameter.</param>
+        </member>
+    </members>
+</doc>
