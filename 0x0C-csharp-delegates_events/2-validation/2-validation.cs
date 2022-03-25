@@ -1,5 +1,8 @@
 ﻿using System;
 
+/// <summary>
+/// player class
+/// </summary>
 public class Player
 {
     string name

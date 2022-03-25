@@ -12,3 +12,17 @@ C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\3-modified_beh
 C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\3-modified_behavior\obj\Debug\netcoreapp2.1\3-modified_behavior.dll
 C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\3-modified_behavior\obj\Debug\netcoreapp2.1\3-modified_behavior.pdb
 C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\3-modified_behavior\obj\Debug\netcoreapp2.1\3-modified_behavior.genruntimeconfig.cache
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\3-modified_behavior\bin\Debug\netcoreapp2.1\3-modified_behavior.xml
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\3-modified_behavior\bin\Debug\netcoreapp2.1\3-modified_behavior.deps.json
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\3-modified_behavior\bin\Debug\netcoreapp2.1\3-modified_behavior.runtimeconfig.json
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\3-modified_behavior\bin\Debug\netcoreapp2.1\3-modified_behavior.runtimeconfig.dev.json
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\3-modified_behavior\bin\Debug\netcoreapp2.1\3-modified_behavior.dll
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\3-modified_behavior\bin\Debug\netcoreapp2.1\3-modified_behavior.pdb
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\3-modified_behavior\obj\Debug\netcoreapp2.1\3-modified_behavior.csproj.AssemblyReference.cache
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\3-modified_behavior\obj\Debug\netcoreapp2.1\3-modified_behavior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\3-modified_behavior\obj\Debug\netcoreapp2.1\3-modified_behavior.AssemblyInfoInputs.cache
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\3-modified_behavior\obj\Debug\netcoreapp2.1\3-modified_behavior.AssemblyInfo.cs
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\3-modified_behavior\obj\Debug\netcoreapp2.1\3-modified_behavior.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\3-modified_behavior\obj\Debug\netcoreapp2.1\3-modified_behavior.dll
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\3-modified_behavior\obj\Debug\netcoreapp2.1\3-modified_behavior.pdb
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\3-modified_behavior\obj\Debug\netcoreapp2.1\3-modified_behavior.genruntimeconfig.cache

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-delegates_events\\0-universal_health\\0-universal_health.csproj",
+      "projectUniqueName": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-csharp-delegates_events\\0-universal_health\\0-universal_health.csproj",
       "projectName": "0-universal_health",
-      "projectPath": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-delegates_events\\0-universal_health\\0-universal_health.csproj",
+      "projectPath": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-csharp-delegates_events\\0-universal_health\\0-universal_health.csproj",
       "packagesPath": "C:\\Users\\Eli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-delegates_events\\0-universal_health\\obj\\",
+      "outputPath": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-csharp-delegates_events\\0-universal_health\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "St7KPR24Uy2IqRr/Uwg3BiPMs3Ho3+wEaU9ez0UBh50NYxj+UFKpXT9bCC/7c2zmCka5fAPHzIWyaxVP8DgyqA==",
+  "dgSpecHash": "nhEsRxxdX/CwWP5m10QEOHBynSnNS1S4nsyKq+b+00+lmHh4/PM1+Xn+BYpAjXqPsYo5wyiLa7GVhx6+/BvTjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-delegates_events\\0-universal_health\\0-universal_health.csproj",
+  "projectFilePath": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-csharp-delegates_events\\0-universal_health\\0-universal_health.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

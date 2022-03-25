@@ -1,5 +1,8 @@
 ﻿using System;
 
+/// <summary>
+/// player class
+/// </summary>
 public class Player
 {
     private string name
@@ -17,6 +20,11 @@ public class Player
         get;
         set;
     }
+    /// <summary>
+    /// player constructor
+    /// </summary>
+    /// <param name="name">player name</param>
+    /// <param name="maxHp">player max hp</param>
     public Player(string name = "Player", float maxHp = 100f)
     {
         this.name = name;
@@ -32,6 +40,9 @@ public class Player
             this.hp = maxHp;
         }
     }
+    /// <summary>
+    /// player print
+    /// </summary>
     public void PrintHealth()
     {
         Console.WriteLine($"{name} has {hp} / {maxHp} health");

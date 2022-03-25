@@ -4,6 +4,11 @@
         <name>3-modified_behavior</name>
     </assembly>
     <members>
+        <member name="T:Player">
+            <summary>
+            player class
+            </summary>
+        </member>
         <member name="M:Player.#ctor(System.String,System.Single)">
             <summary>
             player constructor.

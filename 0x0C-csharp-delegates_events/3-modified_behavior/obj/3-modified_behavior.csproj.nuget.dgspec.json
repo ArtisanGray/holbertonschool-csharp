@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-delegates_events\\3-modified_behavior\\3-modified_behavior.csproj": {}
+    "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-csharp-delegates_events\\3-modified_behavior\\3-modified_behavior.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-delegates_events\\3-modified_behavior\\3-modified_behavior.csproj": {
+    "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-csharp-delegates_events\\3-modified_behavior\\3-modified_behavior.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-delegates_events\\3-modified_behavior\\3-modified_behavior.csproj",
+        "projectUniqueName": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-csharp-delegates_events\\3-modified_behavior\\3-modified_behavior.csproj",
         "projectName": "3-modified_behavior",
-        "projectPath": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-delegates_events\\3-modified_behavior\\3-modified_behavior.csproj",
+        "projectPath": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-csharp-delegates_events\\3-modified_behavior\\3-modified_behavior.csproj",
         "packagesPath": "C:\\Users\\Eli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-delegates_events\\3-modified_behavior\\obj\\",
+        "outputPath": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-csharp-delegates_events\\3-modified_behavior\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qw5sYp+BfrlN80K8hFghOW7eUQNFu9D3pGWSShbAVsNj3HaGZjccgqPpuOqL4SKkNnwuIEGgkSS242bJolBzAw==",
+  "dgSpecHash": "3lhPkFY4MGAX5FUU8V5YwvcLRn9aQG6rTYJNq7EeqkN8AiLpWtW11eJTek29CQem8HHOecIbZGfVcaGME4Pz1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-delegates_events\\3-modified_behavior\\3-modified_behavior.csproj",
+  "projectFilePath": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-csharp-delegates_events\\3-modified_behavior\\3-modified_behavior.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

@@ -35,5 +35,11 @@
             </summary>
             <param name="heal">amount to heal passed as parameter.</param>
         </member>
+        <member name="M:Player.ValidateHP(System.Single)">
+            <summary>
+            modifies the hp value of the player.
+            </summary>
+            <param name="newHp">new hp value to be compared with.</param>
+        </member>
     </members>
 </doc>
