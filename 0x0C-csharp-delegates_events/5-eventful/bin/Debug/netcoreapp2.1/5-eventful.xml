@@ -4,6 +4,11 @@
         <name>5-eventful</name>
     </assembly>
     <members>
+        <member name="T:Player">
+            <summary>
+            player class
+            </summary>
+        </member>
         <member name="M:Player.#ctor(System.String,System.Single)">
             <summary>
             player constructor.
@@ -95,6 +100,17 @@
             <summary>
             gets and sets hp
             </summary>
+        </member>
+        <member name="P:CurrentHPArgs.currentHp">
+            <summary>
+            current hp
+            </summary>
+        </member>
+        <member name="M:CurrentHPArgs.#ctor(System.Single)">
+            <summary>
+            hp constructor
+            </summary>
+            <param name="newHp">hp to set</param>
         </member>
     </members>
 </doc>

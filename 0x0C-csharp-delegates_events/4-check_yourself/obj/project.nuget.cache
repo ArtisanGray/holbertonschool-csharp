@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4q66RHUBAIXKKuf2UmCeMSBymG3HxygpTCNi6zy1zCy+KEI0pIgYZzU6MzSILVZ/JWEQg29YpJT/+ojgZO6pMw==",
+  "dgSpecHash": "dh0AOv0Yz67uA+cvY2HZpbEBNBGv9xr2MP2aJrYiwNIVaS323XI1Hr7JaceDMrxRD+ejXdeBBEO8Ad4NKQXPsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-delegates_events\\4-check_yourself\\4-check_yourself.csproj",
+  "projectFilePath": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-csharp-delegates_events\\4-check_yourself\\4-check_yourself.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

@@ -12,3 +12,17 @@ C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\5-eventful\obj
 C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.dll
 C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.pdb
 C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.genruntimeconfig.cache
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.xml
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.deps.json
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.runtimeconfig.json
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.runtimeconfig.dev.json
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.dll
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.pdb
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.csproj.AssemblyReference.cache
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.AssemblyInfoInputs.cache
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.AssemblyInfo.cs
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.dll
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.pdb
+C:\Users\Eli\Desktop\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.genruntimeconfig.cache

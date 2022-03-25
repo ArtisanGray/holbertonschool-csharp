@@ -4,6 +4,11 @@
         <name>4-check_yourself</name>
     </assembly>
     <members>
+        <member name="T:Player">
+            <summary>
+            player class
+            </summary>
+        </member>
         <member name="M:Player.#ctor(System.String,System.Single)">
             <summary>
             player constructor.
@@ -83,6 +88,22 @@
             <param name="baseValue"> base value to pass</param>
             <param name="modifier"> modifier to pass to base value</param>
             <returns></returns>
+        </member>
+        <member name="T:CurrentHPArgs">
+            <summary>
+            gets and sets hp
+            </summary>
+        </member>
+        <member name="P:CurrentHPArgs.currentHp">
+            <summary>
+            current hp
+            </summary>
+        </member>
+        <member name="M:CurrentHPArgs.#ctor(System.Single)">
+            <summary>
+            hp constructor
+            </summary>
+            <param name="newHp"></param>
         </member>
     </members>
 </doc>

@@ -1,7 +1,8 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
 
+/// <summary>
+/// player class
+/// </summary>
 public class Player
 {
     private string name
@@ -164,10 +165,17 @@ public delegate float CalculateModifier(float baseValue, Modifier modifier);
 /// </summary>
 public class CurrentHPArgs : EventArgs
 {
+    /// <summary>
+    /// current hp
+    /// </summary>
     public float currentHp
     {
         get;
     }
+    /// <summary>
+    /// hp constructor
+    /// </summary>
+    /// <param name="newHp"></param>
     public CurrentHPArgs(float newHp)
     {
         currentHp = newHp;

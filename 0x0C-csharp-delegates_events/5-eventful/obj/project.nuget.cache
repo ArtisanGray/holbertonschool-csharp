@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uR8toUKW0W6S0qHsKy+HVL1Fs5St7haPcP0csvdLVO66EG2oaIHaC8yytzj7o+xpmJZYhrqcUQ34FTyFkN8GfQ==",
+  "dgSpecHash": "UcHDlOyann1UiR/2Yvg1ultCN9QEDTxQsmIiWVzdoZH7leBPmnf9XBOKqksFo5frL+qaekEuSS2GlyKEGfiEew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-delegates_events\\5-eventful\\5-eventful.csproj",
+  "projectFilePath": "C:\\Users\\Eli\\Desktop\\holbertonschool-csharp\\0x0C-csharp-delegates_events\\5-eventful\\5-eventful.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
